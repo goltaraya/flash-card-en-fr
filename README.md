@@ -11,7 +11,8 @@ For this project, I used:
 - Tkinter
 - Random
 
-### Obs:
+## Obs:
 If you don't have Pandas Module, you must install it before run the code. Copy and Paste "__pip install pandas__" in Python Terminal.
-<br><br><br><br>
+
+## Enjoy it!
 Feel free to fork/clone the entire code and to change it by yourself the way you want ;)  

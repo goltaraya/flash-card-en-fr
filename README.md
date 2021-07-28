@@ -11,4 +11,7 @@ For this project, I used:
 - Tkinter
 - Random
 
-### Feel free to fork/clone the entire code and to change it by yourself the way you want ;)  
+### Obs:
+If you don't have Pandas Module, you must install it before run the code. Copy and Paste "__pip install pandas__" in Python Terminal.
+<br><br><br><br>
+Feel free to fork/clone the entire code and to change it by yourself the way you want ;)  
